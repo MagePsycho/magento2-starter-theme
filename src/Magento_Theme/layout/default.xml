@@ -3,6 +3,7 @@
     <body>
         <attribute name="class" value="mp-theme-wrapper"/>
 
+        <!-- logo settings -->
         <referenceBlock name="logo">
             <arguments>
                 <argument name="logo_file" xsi:type="string">images/logo.svg</argument>
