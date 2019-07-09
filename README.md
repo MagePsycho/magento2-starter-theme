@@ -49,3 +49,33 @@ You can send an email to magepsycho[at]gmail.com OR submit the [Contact Us](http
 ## Contribution
 Any contribution to the development of Magento 2 Easy Template Path Hints is highly welcome. 
 The best possibility to provide any code is to open a [pull request on GitHub](https://github.com/MagePsycho/magento2-starter-theme/pulls).
+
+
+## References
+### Tutorials
+
+* https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/theme-best-practice.html
+* https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-overview.html (All Chapters)
+* https://jamersan.com/lets-get-started-theming-magento-2-part-1/
+* https://jamersan.com/super-guide-theming-magento-2-part-2-3/
+* https://jamersan.com/super-guide-theming-magento-2-part-3-3/
+* https://www.classyllama.com/blog/a-look-at-css-and-less-in-magento-2 
+* https://inchoo.net/magento-2/working-with-css-in-your-first-magento-2-project/
+
+### Themes
+
+* https://github.com/DivanteLtd/magento2-rapid-theme
+* https://github.com/rocketweb-fed/magento2-theme-prime
+* https://github.com/SnowdogApps/magento2-alpaca-theme
+* https://github.com/studioemma/magento2-theme-optimus
+* https://github.com/thebreakfastcowboy/ibec-magento2-theme
+* https://github.com/webgriffe/theme-bootstrap
+* https://github.com/czone-tech/magento2-theme-fresh
+* https://github.com/mcspronko/magento-2-pronko-consulting-theme
+* https://github.com/SundialBrands/SheaMoisture2.0-Magento2-Theme
+* https://github.com/swissup/theme-frontend-absolute
+* https://github.com/ubertheme/magento2_free_theme_trex
+* https://github.com/elevinskii/magento2-theme-deepfish
+
+
+
