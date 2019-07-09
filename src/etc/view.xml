@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<view xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/view.xsd">
+    <media>
+        <images module="Magento_Catalog">
+
+            <!-- gallery images -->
+            <image id="product_page_image_medium" type="image">
+                <width>700</width>
+                <height>700</height>
+            </image>
+
+            <image id="product_page_image_small" type="thumbnail">
+                <width>88</width>
+                <height>110</height>
+            </image>
+
+            <!-- related product images -->
+            <image id="upsell_products_list" type="small_image">
+                <width>152</width>
+                <height>190</height>
+            </image>
+            <image id="related_products_list" type="small_image">
+                <width>152</width>
+                <height>190</height>
+            </image>
+        </images>
+    </media>
+
+</view>
