@@ -36,6 +36,9 @@ php bin/magento cache:flush
 ## Screenshots
 ...
 
+## Utility Extensions
+After starter theme installation, you may also like to install 
+- https://github.com/MagePsycho/magento2-easy-template-path-hints
 
 ## Changelog
 ...
