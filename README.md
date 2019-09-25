@@ -64,6 +64,7 @@ The best possibility to provide any code is to open a [pull request on GitHub](h
 * https://jamersan.com/super-guide-theming-magento-2-part-3-3/
 * https://www.classyllama.com/blog/a-look-at-css-and-less-in-magento-2 
 * https://inchoo.net/magento-2/working-with-css-in-your-first-magento-2-project/
+* https://github.com/daniDLL/magento2-frontend
 
 ### Themes
 
@@ -79,6 +80,7 @@ The best possibility to provide any code is to open a [pull request on GitHub](h
 * https://github.com/swissup/theme-frontend-absolute
 * https://github.com/ubertheme/magento2_free_theme_trex
 * https://github.com/elevinskii/magento2-theme-deepfish
+* https://github.com/MykolajKrusser/magento2-theme
 
 
 
