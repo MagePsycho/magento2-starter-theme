@@ -6,6 +6,10 @@ This theme is boilerplate/starter theme for Magento 2 based on luma.
 ## Features
 * Coming soon
 
+## CheatSheet
+Responsive Media Queries  
+[https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/responsive-web-design/rwd_css.html](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/responsive-web-design/rwd_css.html)
+
 ## Installation
 
 ### 1 Using Composer
@@ -65,6 +69,7 @@ The best possibility to provide any code is to open a [pull request on GitHub](h
 * https://www.classyllama.com/blog/a-look-at-css-and-less-in-magento-2 
 * https://inchoo.net/magento-2/working-with-css-in-your-first-magento-2-project/
 * https://github.com/daniDLL/magento2-frontend
+* https://www.youtube.com/playlist?list=PLwcl8DqLMv9f6Ygxgg-_Vk-UdY9FDhpQ_
 
 ### Themes
 
