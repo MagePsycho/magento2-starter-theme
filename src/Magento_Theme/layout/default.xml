@@ -8,8 +8,8 @@
             <arguments>
                 <argument name="logo_file" xsi:type="string">images/logo.svg</argument>
                 <argument name="logo_alt" xsi:type="string">MagePsycho Store</argument>
-                <argument name="logo_img_width" xsi:type="number">148</argument>
-                <argument name="logo_img_height" xsi:type="number">43</argument>
+                <argument name="logo_img_width" xsi:type="number">250</argument>
+                <argument name="logo_img_height" xsi:type="number">50</argument>
             </arguments>
         </referenceBlock>
 
